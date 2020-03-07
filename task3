@@ -74,8 +74,6 @@ public class StatisticsOfStrings {
 	}
 }
 
-
-/*Rod Cutting*/
 import java.util.Scanner;
 
 public class RodCutting {
@@ -103,8 +101,6 @@ public class RodCutting {
     }
 }
 
-
-/*HelpOutIndianArmy*/
 import java.util.*;
 import java.io.*;
 
@@ -177,8 +173,6 @@ public class HelpOutIndianArmy
 		System.out.println(a);
 	}
 }
-
-/*Descending Weights*/
 import java.util.*;
 import java.io.*;
 public class DescendingWeights {
@@ -204,7 +198,6 @@ public class DescendingWeights {
     }
 }
 
-/*Glowinng Bulbs*/
 import java.io.*;
 import java.util.*;
 
@@ -256,9 +249,6 @@ class TestClass {
         }
     }
 }
-
-
-/*Metro Path*/
 import java.util.*;
 import java.io.*;
  
