@@ -1,4 +1,4 @@
-# abcd
+# abcd_epam
 import java.util.Scanner;
 
 class MyCal{
